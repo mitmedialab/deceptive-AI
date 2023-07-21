@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/668771264.svg)](https://zenodo.org/badge/latestdoi/668771264)
 # AI systems that generate deceptive explanations can amplify beliefs in false information
 A repository for the paper "AI systems that generate deceptive explanations can amplify beliefs in false information," TBD. 
 
